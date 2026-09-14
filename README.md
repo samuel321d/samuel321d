@@ -38,9 +38,9 @@ Also working with: **SU2**, **GMSH**, **Scilab**, **Modelica**, **Paraview**, **
 **🖥️ CFD Script For Lid Driven Cavity Case**
 *Project on CFD Course*
 - Solved stream-vorticity formulation using the FVM accounting for heat transfer.
-- Validated results against Ghia, Ghia & Shin (1982) — benchmark tabulated velocity profiles for $Re = 100$ and $Re = 400$.
+- Validated results against Ghia, Ghia & Shin (1982) — benchmark tabulated velocity profiles for $Re = 100$ and $Re = 400$ and comparison with Fluent solver.
 - Performed grid independence study reporting Nusselt number and main vortex core coordinates.
-- Comparison between own solver and Fluent results.
+  
 **🔥 Aerospike Engine Conceptual Design and Sizing**
 *Course Project — Rocket Propulsion*
 - Designed a regenerative cooling system (channel geometry, materials, manufacturability)
