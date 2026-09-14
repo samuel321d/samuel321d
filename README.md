@@ -35,6 +35,12 @@ Also working with: **SU2**, **GMSH**, **Scilab**, **Modelica**, **Paraview**, **
 - Ran CFD simulations to estimate aerodynamic coefficients in subsonic and transonic regimes
 - Built a Python framework combining Central Composite Design (CCD) with RSM, using regression and Kriging surrogate models
 
+**🖥️ CFD Script For Lid Driven Cavity Case**
+*Project on CFD Course*
+- Solved stream-vorticity formulation using the FVM accounting for heat transfer.
+- Validated results against Ghia, Ghia & Shin (1982) — benchmark tabulated velocity profiles for $Re = 100$ and $Re = 400$.
+- Performed grid independence study reporting Nusselt number and main vortex core coordinates.
+- Comparison between own solver and Fluent results.
 **🔥 Aerospike Engine Conceptual Design and Sizing**
 *Course Project — Rocket Propulsion*
 - Designed a regenerative cooling system (channel geometry, materials, manufacturability)
