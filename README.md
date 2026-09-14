@@ -23,7 +23,7 @@ I'm an Aerospace Engineering student with a strong research focus on computation
 ![Autodesk](https://img.shields.io/badge/Autodesk_Inventor-0B1A2C?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Fusion_360-1E88E5?style=for-the-badge&logo=autodeskfusion360&logoColor=white)
 
-Also working with: **SU2**, **Scilab**, **Modelica**, **Paraview**, **Gasturb**, **OpenVSP**
+Also working with: **SU2**, **GMSH**, **Scilab**, **Modelica**, **Paraview**, **Gasturb**, **OpenVSP**
 
 ---
 
