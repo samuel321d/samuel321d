@@ -1,9 +1,8 @@
 # Hi, I'm Julian Samuel Prieto León 👋
 
-🚀 Aerospace Engineering student at the **University of Antioquia** (Medellín, Colombia)
-🔭 Passionate about **aerothermodynamics, CFD, propulsion systems, and multidisciplinary optimization**
-🧠 Interested in applying **AI and numerical methods** to solve complex aerospace engineering problems
-📫 Reach me at: **samuel.prieto@udea.edu.co**
+🚀 Aerospace Engineering student at the **University of Antioquia** (Medellín, Colombia). Passionate about **aerothermodynamics, CFD, propulsion systems, and multidisciplinary optimization**. Interested in applying **AI and numerical methods** to solve complex aerospace engineering problems
+
+Reach me at: **samuel.prieto@udea.edu.co**
 
 ---
 
